@@ -1,0 +1,35 @@
+{
+  "id": "6877db2af9fcc90536a21749",
+  "title": "Runaway course",
+  "description": "Dev",
+  "learningObjectives": [
+    "Understand the basic concepts of programming",
+    "In-depth knowledge of Runner programming",
+    "Build robust and scalable Runner applications",
+    "Critical thinking and Problem-solving using programming"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project will involve building a scalable and robust Runner application",
+    "planningResources": [
+      "Runner programming guides",
+      "Sample Runner applications",
+      "Project planning and design guides"
+    ],
+    "submissionInstructions": "The final project should be submitted as a Zip file. The file should contain all the source codes, along with a detailed README that explains how to run the application",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6800a73454438765dcfd5e07",
+    "name": "Tammam Alwafai",
+    "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-16T17:02:34.402Z",
+  "updatedAt": "2025-07-16T17:03:22.359Z",
+  "remoteGithubUrl": "https://github.com/1992tw/runaway-course"
+}
